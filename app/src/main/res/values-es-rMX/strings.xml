@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localización</string>
+    <string name="action_help">Ayuda</string>
+    <string name="description">Ayuda</string>
+    <string name="nougat">Paquete de caramelos de turrón</string>
+    <string name="help_text">"Si necesita ayuda, comuníquese con nuestro Departamento de Soporte. "</string>
+    <string name="language">Idioma</string>
+    <string name="expiration_date">Fecha de caducidad:</string>
+    <string name="quantity_label">Cantidad</string>
+    <string name="enter_a_number">Ingrese un numero</string>
+    <string name="price_label">Precio por paquete:</string>
+    <string name="total_to_pay">Total a pagar:</string>
+    <string name="enter_number">Ingrese un numero</string>
+</resources>

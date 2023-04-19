@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الموقع</string>
+    <string name="action_help">يساعد</string>
+    <string name="description">"النوجا هي عائلة من الحلويات المصنوعة من السكر أو العسل ، والمكسرات المحمصة (اللوز والجوز والفستق والبندق والمكاديميا شائعة) ، بياض البيض المخفوق ، وأحيانًا الفاكهة المسكرة المقطعة. يتم استخدامه في مجموعة متنوعة من قطع الحلوى والشوكولاتة. "</string>
+    <string name="help_text">إذا كنت بحاجة إلى مساعدة ، فاتصل بقسم الدعم لدينا.</string>
+    <string name="nougat">نوجا كاندي باك</string>
+    <string name="language">لغة</string>
+    <string name="expiration_date">تاريخ انتهاء الصلاحية:</string>
+    <string name="quantity_label">كمية:</string>
+    <string name="enter_a_number">أدخل رقما</string>
+    <string name="price_label">سعر الحزمة:</string>
+    <string name="total_to_pay">مجموع للدفع:</string>
+    <string name="enter_number">أدخل رقما</string>
+</resources>
